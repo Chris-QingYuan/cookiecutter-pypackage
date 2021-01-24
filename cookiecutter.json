@@ -7,7 +7,7 @@
   "project_short_description": "Not provided.",
   "pypi_username": "{{ cookiecutter.github_username }}",
   "version": "0.0.1",
-  "use_pytest": "1",
+  "use_pytest": "y",
   "use_pypi_deployment_with_travis": "y",
   "add_pyup_badge": "n",
   "command_line_interface": ["Click", "Argparse", "No command-line interface"],
